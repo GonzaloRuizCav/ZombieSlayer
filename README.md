@@ -2,4 +2,6 @@ This is Zombie Slayer! A VR survival game in which the player's objective is to 
 
 For privacy reasons, the final apk is not available publicly :(
 
-To see the game and get excited about it watch the demo in the repository that I recorded myself! 
+To see the game and get excited about it watch the demo here!
+
+https://drive.google.com/file/d/1ThI4FmWrZqiewT2bi6mIAbFjCnKXeUzj/view?usp=sharing
